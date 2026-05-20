@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "متأكدة؟",
+    "حرام راتبه ٢٥٠٠??",
+
+    "٢٣٠٠ بعد خصم التأمين.",
+    "طيب هو معاق طاقينه",
+    "طيب يكثر جبن",
+    "طيب علشاني.",
+    "",
+    "",
+    "تبنبتيتييتتي كثر شطة مدير"
 ];
 
 let messageIndex = 0;
